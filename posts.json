@@ -1,6 +1,7 @@
 {
 "series":
 [
+       
 {
 "title" : "The Unwanted Roommate",
 "status" : "စ - ဆုံး",
@@ -216,5 +217,16 @@
 "tag" : "",
 "vol" : "အပိုင်း(၅၀)\nဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
 }
+       ,
+              {
+"title" : "Freshman",
+"status" : "နေ့စဉ်",
+"cover" : "https://1.bp.blogspot.com/-bgWlEjnUR-8/Xr05Vm-uCtI/AAAAAAAAKkE/moKT1FJ7RegMd-YSlhU9Hbz3ColqQnMnACLcBGAsYHQ/s320/001cover.jpg",
+"image" : "https://1.bp.blogspot.com/-EmHdP2pbenU/Xr1B5YX-9DI/AAAAAAAAKnE/wqMJUS3Dyw8r5skwTyFq3e-ffvemq_TNQCLcBGAsYHQ/s1600/fm2-picsay.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-freshman/master/",
+"tag" : "",
+"vol" : ""
+}
+
 ]
 }
