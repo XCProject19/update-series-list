@@ -254,7 +254,7 @@
 "vol" : ""
 }
 ,
-       {
+{
 "title" : "Perfect Roommates",
 "status" : "နေ့စဉ်",
 "cover" : "https://1.bp.blogspot.com/-d8w2bVPjnXU/XuNZE_H1OOI/AAAAAAAARUc/rNCgt9mXSicn_ccd5dhJ3ELjvsrPwDnKACLcBGAsYHQ/s320/The-Perfect-Roommates-193x278.jpg",
@@ -265,6 +265,16 @@
 အဲ့မိန်းမတွေက သိုက်တူးသမားတွေပဲ....
 သူတို့ ကျနော့ကို ဒါမျိုးလာလုပ်တာတော့ လက်မခံနိုင်ဘူး...
 ကျနော် ........ ”"
+}
+,
+{
+"title" : "My Friend's Dead",
+"status" : "နေ့စဉ်",
+"cover" : "https://1.bp.blogspot.com/-H-HX2Xrb5Tw/Xu34Y6ichsI/AAAAAAAABFo/gcxratntL_crCn4vONyBC9_Xi-IqxmpiACLcBGAsYHQ/s320/IMG_20200620_182044.png",
+"image" : "https://1.bp.blogspot.com/-v20kvGIdVcE/Xu34Y8IvRvI/AAAAAAAABFk/FAYIbOaUL5kFpFxMkF1lyQMOtV1KDaFpwCLcBGAsYHQ/s1600/IMG_20200620_182112.jpg",
+"link" : "https://github.com/XCProject19/series-myfriend-sDad/blob/master/",
+"tag" : "",
+"vol" : ""
 }
 ]
 }
