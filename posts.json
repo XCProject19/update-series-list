@@ -296,8 +296,8 @@
 "tag" : "",
 "vol" : ""
 }
-       ,
-       {
+,
+{
 "title" : "My Love For Her",
 "status" : "နေ့စဉ်",
 "image" : "https://1.bp.blogspot.com/-wZYXmQufWWw/XwRaEulxCGI/AAAAAAAAJGU/ZxFICfXQNpUulOduFtRH88VOEGk2sJC_ACLcBGAsYHQ/s1600/IMG_20200707_174740.jpg",
@@ -306,13 +306,23 @@
 "tag" : "",
 "vol" : ""
 }
-        ,
-       {
+,
+{
 "title" : "Her Toy Store",
 "status" : "နေ့စဉ်",
 "image" : "https://1.bp.blogspot.com/-Xm-fy06uhOA/Xw7CvHL_lKI/AAAAAAAAPb8/YIJ_dlUHFYAalqqMc2Fxlp3DT2UMThwvACLcBGAsYHQ/s1600/IMG_20200715_151659.jpg",
 "cover" : "https://1.bp.blogspot.com/-zxwnytB2ANs/Xw6_P1gX2eI/AAAAAAAAPa4/9pzmk_3Eom0VCdk7QFHFY5RxAzMUmGsLQCLcBGAsYHQ/s1600/Her-Toy-Shop-193x278.jpg",
 "link" : "https://raw.githubusercontent.com/XCProject19/series-Her-Toy-Store/master/",
+"tag" : "",
+"vol" : ""
+}
+,
+{
+"title" : "Deceptions",
+"status" : "နေ့စဉ်",
+"image" : "https://1.bp.blogspot.com/-qt-UlIrbRsE/Xxa8bKGPPDI/AAAAAAAASSI/FfzbuJIefc0CKzxd_X7OZViCLEzHN55JwCLcBGAsYHQ/s1600/lIfNwNLhcd5u7OVWvKHyZ6DcR2hVfBZHeEsH4taP1oQ.jpg",
+"cover" : "https://1.bp.blogspot.com/-i86urPjVvyQ/Xxa8bMwfE8I/AAAAAAAASSE/LNQYa05-RJEEKmRtDhr1UNnlw5IFxNmDQCLcBGAsYHQ/s400/IMG_20200721_162658.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-Deceptions/master/",
 "tag" : "",
 "vol" : ""
 }
